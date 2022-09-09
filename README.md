@@ -1,13 +1,14 @@
-Hi 👋 My name is Berk Turhan 
+Hi 👋 I am Berk Turhan 
 ============================
 
-Undergraduate Student
+#### Undergraduate Student [@Sabanci University](https://cs.sabanciuniv.edu/en) 
+#### Intern [@Gumus Lab | Icahn School of Medicine at Mount Sinai](https://gumuslab.github.io)
 ---------------------  
-undergrad in the morning, light-sleeper at night  
+hard-worker in the morning, light-sleeper at night  
 
 * 🌍  I'm based in Istanbul, Turkey 
-* 🖥️  See my personal website and cv at [turhan.io](http://turhan.io) 
-* ✉️  You can contact me at [berkturhan@sabanciuniv.edu](mailto:berkturhan@sabanciuniv.edu) 
+* 🖥️  See my personal website and CV at [turhan.io](https://turhan.io) 
+* ✉️  You can shoot me an email at [berkturhan@sabanciuniv.edu](mailto:berkturhan@sabanciuniv.edu) 
 * 🚀  I'm currently working on [PhosNetVis](http://gumuslab.github.io/PhosNetVis)
 
 <a href="https://www.twitter.com/turhanberk99" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/turhanberk99?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

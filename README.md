@@ -4,7 +4,7 @@ Hi 👋 I am Berk Turhan
 #### Undergraduate Student [@Sabanci University](https://cs.sabanciuniv.edu/en) 
 #### Intern [@Gumus Lab | Icahn School of Medicine at Mount Sinai](https://gumuslab.github.io)
 ---------------------  
-hard-worker in the morning, light-sleeper at night  
+hard-worker in the morning, harder-sleeper at night  
 
 * 🌍  I'm based in Istanbul, Turkey 
 * 🖥️  See my personal website and CV at [turhan.io](https://turhan.io) 

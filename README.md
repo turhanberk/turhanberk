@@ -9,7 +9,7 @@ hard-worker in the morning, harder-sleeper at night
 * 🌍  I'm based in Istanbul, Turkey 
 * 🖥️  See my personal website and CV at [turhan.io](https://turhan.io) 
 * ✉️  You can shoot me an email at [berkturhan@sabanciuniv.edu](mailto:berkturhan@sabanciuniv.edu) 
-* 🚀  I'm currently working on [PhosNetVis](http://gumuslab.github.io/PhosNetVis)
+* 🚀  I'm currently working on [PhosNetVis](https://github.com/GumusLab/PhosNetVis)
 
 <a href="https://www.twitter.com/turhanberk99" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/turhanberk99?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 

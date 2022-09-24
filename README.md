@@ -1,15 +1,15 @@
-Hi 👋 I am Berk Turhan 
+Hi, I am Berk Turhan 💻 
 ============================
 
-#### Undergraduate Student [@Sabanci University](https://cs.sabanciuniv.edu/en) 
-#### Intern [@Gumus Lab | Icahn School of Medicine at Mount Sinai](https://gumuslab.github.io)
+* Undergraduate Student [@Sabanci University](https://cs.sabanciuniv.edu/en) 
+* Intern [@Gumus Lab | Icahn School of Medicine at Mount Sinai](https://gumuslab.github.io)
 ---------------------  
-hard-worker in the morning, harder-sleeper at night  
-
-* 🌍  I'm based in Istanbul, Turkey 
-* 🖥️  See my personal website and CV at [turhan.io](https://turhan.io) 
-* ✉️  You can shoot me an email at [berkturhan@sabanciuniv.edu](mailto:berkturhan@sabanciuniv.edu) 
-* 🚀  I'm currently working on [PhosNetVis](https://github.com/GumusLab/PhosNetVis)
+### my bio:
+* 🙎🏼‍♂️  undergrad in the morning, [cat dad](https://turhan.io/assets/berk_turhan_pisikedi.mp4) at night
+* 🌍  based in Istanbul, Turkey 
+* 🖥️  personal website and CV at [turhan.io](https://turhan.io) 
+* ✉️  shoot me an email at [berkturhan@sabanciuniv.edu](mailto:berkturhan@sabanciuniv.edu) 
+* 🚀  currently working on [PhosNetVis](https://github.com/GumusLab/PhosNetVis)
 
 <a href="https://www.twitter.com/turhanberk99" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/turhanberk99?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 

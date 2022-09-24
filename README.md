@@ -1,8 +1,8 @@
 Hi, I am Berk Turhan 💻 
 ============================
 
-* Undergraduate Student [@Sabanci University](https://cs.sabanciuniv.edu/en) 
-* Intern [@Gumus Lab | Icahn School of Medicine at Mount Sinai](https://gumuslab.github.io)
+* ***Undergraduate Student*** [@Sabanci University](https://cs.sabanciuniv.edu/en) 
+* ***Intern*** [@Gumus Lab | Icahn School of Medicine at Mount Sinai](https://gumuslab.github.io)
 ---------------------  
 ### my bio:
 * 🙎🏼‍♂️  undergrad in the morning, [cat dad](https://turhan.io/assets/berk_turhan_pisikedi.mp4) at night

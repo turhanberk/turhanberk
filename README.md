@@ -1,9 +1,8 @@
-Hi, I am Berk Turhan 💻 
-============================
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=1EDD1E&width=435&lines=echo+%22Hello%2C+I+am+Berk+Turhan!%22)](https://git.io/typing-svg)
+--------------------- 
 * ***Undergraduate Student*** [@Sabanci University](https://cs.sabanciuniv.edu/en) 
 * ***Intern*** [@Gumus Lab | Icahn School of Medicine at Mount Sinai](https://gumuslab.github.io)
----------------------  
+ 
 ### my bio:
 * 🙎🏼‍♂️  undergrad in the morning, [cat dad](https://turhan.io/assets/berk_turhan_pisikedi.mp4) at night
 * 🌍  based in Istanbul, Turkey 
